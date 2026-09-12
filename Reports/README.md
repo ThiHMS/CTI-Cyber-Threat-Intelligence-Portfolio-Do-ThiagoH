@@ -22,3 +22,9 @@ As análises podem envolver:
 - TTP Mapping
 - Attack Surface Analysis
 - Threat Hunting
+---
+
+## Disclaimer
+Os conteúdos deste diretório possuem finalidade educacional e de desenvolvimento de competências em Cyber Threat Intelligence.
+
+As informações são baseadas em fontes públicas e são analisadas com finalidade de pesquisa, documentação e estudo de ameaças cibernéticas.
