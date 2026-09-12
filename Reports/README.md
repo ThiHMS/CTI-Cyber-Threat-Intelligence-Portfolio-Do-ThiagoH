@@ -8,6 +8,7 @@ Coleção de relatórios desenvolvidos em atividades de Cyber Threat Intelligenc
 Análise de Cyber Threat Intelligence sobre a campanha STAC4749 – Spring Ring.
 
 [Visualizar relatório](./STAC4749-Spring-Ring/)
+
 ---
 
 ## Metodologias
